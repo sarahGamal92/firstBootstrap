@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sarahGamal92/firstBootstrap/issues"
   },
-  "homepage": "https://github.com/sarahGamal92/firstBootstrap#readme"
+  "homepage": "https://github.com/sarahGamal92/firstBootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
